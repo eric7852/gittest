@@ -3,7 +3,7 @@
 2.Web Server
 3.Db
 4.User_data
-
+5.Load_balancer
 
 
 
